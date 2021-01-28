@@ -22,3 +22,8 @@ Line 505 should say what the board is
 
 Note I had troubles sending comments of different lengths, so expansion of the code might be tricky.
 
+
+Here is an image of the setup. I used 16k Ohm resistors however I am sure someone else knows what is the best resistor to use depending on how many XIAOs you have attached.
+
+![20210128_090622.jpg](20210128_090622.jpg)
+
